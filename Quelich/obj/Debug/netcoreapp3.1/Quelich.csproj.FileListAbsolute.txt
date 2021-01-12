@@ -35,3 +35,4 @@ D:\GitRepos\Quelich\Quelich\obj\Debug\netcoreapp3.1\Quelich.dll
 D:\GitRepos\Quelich\Quelich\obj\Debug\netcoreapp3.1\Quelich.pdb
 D:\GitRepos\Quelich\Quelich\obj\Debug\netcoreapp3.1\Quelich.genruntimeconfig.cache
 D:\GitRepos\Quelich\Quelich\obj\Debug\netcoreapp3.1\Quelich.csproj.CopyComplete
+D:\GitRepos\Quelich\Quelich\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

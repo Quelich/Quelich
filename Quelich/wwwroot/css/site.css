@@ -14,8 +14,9 @@ for details on configuring this project to bundle and minify static web assets. 
 
 .card-columns .card-body {
     height: 100px;
-    font-family: 'Nunito', sans-serif;
-    background: #fbfafd;
+    font-family: 'Times New Roman', sans-serif;
+    
+    background: #ad03fc;
 }
 
 .card-columns .card-img {
@@ -113,6 +114,7 @@ p {
 
 h1 {
     font-family: 'Nunito', sans-serif;
+    color: azure;
 }
 
 ul {
