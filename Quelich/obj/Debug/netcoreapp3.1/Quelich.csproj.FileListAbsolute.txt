@@ -36,3 +36,8 @@ D:\GitRepos\Quelich\Quelich\obj\Debug\netcoreapp3.1\Quelich.pdb
 D:\GitRepos\Quelich\Quelich\obj\Debug\netcoreapp3.1\Quelich.genruntimeconfig.cache
 D:\GitRepos\Quelich\Quelich\obj\Debug\netcoreapp3.1\Quelich.csproj.CopyComplete
 D:\GitRepos\Quelich\Quelich\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\GitRepos\Quelich\Quelich\obj\Debug\netcoreapp3.1\Quelich.RazorComponent.input.cache
+D:\GitRepos\Quelich\Quelich\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\ProductList.razor.g.cs
+D:\GitRepos\Quelich\Quelich\obj\Debug\netcoreapp3.1\Quelich.RazorComponent.output.cache
+D:\GitRepos\Quelich\Quelich\obj\Debug\netcoreapp3.1\RazorDeclaration\Quelich.dll
+D:\GitRepos\Quelich\Quelich\obj\Debug\netcoreapp3.1\Razor\Components\ProductList.razor.g.cs
