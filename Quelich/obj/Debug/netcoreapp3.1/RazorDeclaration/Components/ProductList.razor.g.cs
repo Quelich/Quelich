@@ -41,7 +41,7 @@ using Quelich.Services;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 54 "D:\GitRepos\Quelich\Quelich\Components\ProductList.razor"
+#line 37 "D:\GitRepos\Quelich\Quelich\Components\ProductList.razor"
        
     Product selectedProduct;
     string selectedProductId;
