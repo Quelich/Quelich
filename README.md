@@ -1,4 +1,4 @@
-### Hi there, I'm Emre - aka 👋
+### Hi there, I'm Emre - aka [Quelich](https://github.com/Quelich)👋
 
 
 ## I am a CpE Freshman, Game Developer, Open Source Enthusiastic
