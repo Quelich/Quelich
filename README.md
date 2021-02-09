@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on a VR game project as a programmer on [Wide Game Studio](http://www.widegamestudio.com/)
-- 🌱 I’m currently learning .NET Framework, Unity API, Artificial Intelligence, Virtual Reality
+- 💻 I’m currently learning .NET Framework, Unity API, Artificial Intelligence, Virtual Reality
 - 👯 I’m looking to collaborate on 2D-3D Unity-based games
 - 🤔 I’m looking for help with .NET Framework
 - 💬 Ask me about Unity API, .NET Framework, Powershell, Computer Hardware
