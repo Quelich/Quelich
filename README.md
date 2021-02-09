@@ -1,7 +1,7 @@
 ### Hi there, I'm Emre - aka 👋
 
 
-## I am a CpE Freshman, Game Developer
+## I am a CpE Freshman, Game Developer, Open Source Enthusiastic
 
 
 - 🔭 I’m currently working on a VR game project as a programmer on [Wide Game Studio](http://www.widegamestudio.com/)
