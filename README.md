@@ -16,5 +16,5 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://readme-spotify-status-coral.vercel.app/api/run-spotify-status" alt="Your alt what" width="350"  />](https://open.spotify.com/user/21c22mgjnbrhmi45bbqbbjmva)
+[<img src="https://readme-spotify-status-coral.vercel.app/api/run-spotify-status" alt="https://camo.githubusercontent.com/b64b815e3dbf6114de3242468fcc4c858f3c479eeeb01d5329416f4925c4cbff/68747470733a2f2f73706f746966792d7374617475732e76657263656c2e6170702f6170692f72756e2d73706f746966792d737461747573" width="350"  />](https://open.spotify.com/user/21c22mgjnbrhmi45bbqbbjmva)
 
