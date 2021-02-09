@@ -13,21 +13,21 @@ namespace Quelich.Components
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "D:\GitRepos\Quelich\Quelich\Components\ProductList.razor"
+#line 1 "d:\GitRepos\Quelich\Quelich\Components\ProductList.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "D:\GitRepos\Quelich\Quelich\Components\ProductList.razor"
+#line 2 "d:\GitRepos\Quelich\Quelich\Components\ProductList.razor"
 using Quelich.Models;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "D:\GitRepos\Quelich\Quelich\Components\ProductList.razor"
+#line 3 "d:\GitRepos\Quelich\Quelich\Components\ProductList.razor"
 using Quelich.Services;
 
 #line default
@@ -41,7 +41,7 @@ using Quelich.Services;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 37 "D:\GitRepos\Quelich\Quelich\Components\ProductList.razor"
+#line 37 "d:\GitRepos\Quelich\Quelich\Components\ProductList.razor"
        
     Product selectedProduct;
     string selectedProductId;
