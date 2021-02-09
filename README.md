@@ -14,8 +14,9 @@
 - ⚡ Fun fact: I don't like programming in Java.
     
 ## 📫 How to reach me:
-
+[![Twitter](https://img.shields.io/twitter/follow/Xuelich?label=%40Xuelich&style=social)](https://twitter.com/Xuelich)
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/21c22mgjnbrhmi45bbqbbjmva)
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
