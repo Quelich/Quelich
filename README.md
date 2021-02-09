@@ -1,17 +1,18 @@
 ### Hi there, I'm Emre - aka 👋
 
 
-## I am a CpE Student, Game Developer
+## I am a Freshman CpE Student, Game Developer
 
 
 - 🔭 I’m currently working on a VR game project as a programmer on [Wide Game Studio](http://www.widegamestudio.com/)
-- 🌱 I’m currently learning .NET Framework, Unity API, Artificial Intelligence
+- 🌱 I’m currently learning .NET Framework, Unity API, Artificial Intelligence, Virtual Reality
 - 👯 I’m looking to collaborate on 2D-3D Unity-based games
-- 🤔 I’m looking for help with 
-- 💬 Ask me about Unity API, .NET Framework, Powershell
-- 📫 How to reach me: 
+- 🤔 I’m looking for help with .NET Framework
+- 💬 Ask me about Unity API, .NET Framework, Powershell, Computer Hardware
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I do not like to watch movies, series etc. 
+- ⚡ Fun fact: I don't like programming in Java.
+
+## 📫 How to reach me:
 
 ### Spotify Playing 🎧
 
