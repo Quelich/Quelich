@@ -13,10 +13,8 @@
 - ⚡ Fun fact: I don't like programming in Java.
     
 ## 📫 How to reach me:
-<p align="center">
-[<img src="https://readme-spotify-status-coral.vercel.app/api/run-spotify-status" alt="s4nx Playing Now" width="350"  />](https://open.spotify.com/user/21c22mgjnbrhmi45bbqbbjmva)
-<p align="center">
+
+
 ### Spotify Playing 🎧
-
-
+[<img src="https://readme-spotify-status-coral.vercel.app/api/run-spotify-status" alt="s4nx Playing Now" width="350" />](https://open.spotify.com/user/21c22mgjnbrhmi45bbqbbjmva)
 
