@@ -31,7 +31,6 @@
 ![mssql](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 [<img align="left" alt="Visual Studio" width="26px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/visual-studio.png" />]
 
-g
 
 
 ### Spotify Playing 🎧
