@@ -20,6 +20,7 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xuelich/)
 [![reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Quelich)
 [![sof](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13435301/quelich)
+[![devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/quelich)
 
 
 ### Languages and Tools:
@@ -30,10 +31,10 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 <img align="left" alt="Visual Studio" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/visual-studio.png" />
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/visual-studio-code-1.png" />
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/git.png" />
-<img align="left" alt="Github" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/github.png" />
 <img align="left" alt="Blender" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/icons8-blender-3d-48.png" />
 <img align="left" alt="XAML" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/icons8-xaml-96.png" />
 <img align="left" alt="IntelliJ Idea" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/icons8-intellij-idea-96.png" />
