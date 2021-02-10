@@ -22,6 +22,7 @@
 [![sof](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13435301/quelich)
 [![devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/quelich)
 
+<br />
 
 ### Languages and Tools:
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -42,6 +43,8 @@
 <img align="left" alt="dotTrace" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/dottrace-icon.png" />
 <img align="left" alt="dotMemory" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/icon-dotmemory%20(1).png" />
 <img align="left" alt="draw.io" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/draw-io.png" />
+
+<br />
 
 
 
