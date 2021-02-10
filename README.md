@@ -22,7 +22,6 @@
 [![sof](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13435301/quelich)
 [![devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/quelich)
 
-<br />
 
 ### Languages and Tools:
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -46,8 +45,9 @@
 
 <br />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quelich)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<br />
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/21c22mgjnbrhmi45bbqbbjmva)
