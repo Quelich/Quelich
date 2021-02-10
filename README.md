@@ -44,7 +44,8 @@
 <img align="left" alt="draw.io" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/draw-io.png" />
 
 <br />
-
+<br />
+---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quelich&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
