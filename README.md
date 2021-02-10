@@ -24,6 +24,7 @@
 
 
 ### Languages and Tools:
+---
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
@@ -49,7 +50,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quelich&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-<br />
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/21c22mgjnbrhmi45bbqbbjmva)
