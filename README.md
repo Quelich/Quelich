@@ -14,11 +14,12 @@
 - ⚡ Fun fact: I don't like programming in Java.
     
 ## 📫 How to reach me:
-[![Twitter](https://img.shields.io/twitter/follow/Xuelich?label=%40Xuelich&style=social)](https://twitter.com/Xuelich)
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/> />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" />][instagram]
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-k%C4%B1l%C4%B1%C3%A7-603437147/?KOTA4OBSQdOXovdJx6hNxw=%3D)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Xuelich)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xuelich/)
+[![reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Quelich)
+
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/21c22mgjnbrhmi45bbqbbjmva)
@@ -30,3 +31,4 @@
 [twitter]: https://twitter.com/Xuelich
 [instagram]: https://www.instagram.com/xuelich/
 [linkedin]:https://www.linkedin.com/in/emre-k%C4%B1l%C4%B1%C3%A7-603437147/?KOTA4OBSQdOXovdJx6hNxw=%3D
+[reddit]: https://www.reddit.com/user/Quelich
