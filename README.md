@@ -29,6 +29,8 @@
 ![xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![mssql](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![visualstudio](https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+
 
 
 
@@ -43,3 +45,4 @@
 [instagram]: https://www.instagram.com/xuelich/
 [linkedin]:https://www.linkedin.com/in/emre-k%C4%B1l%C4%B1%C3%A7-603437147/?KOTA4OBSQdOXovdJx6hNxw=%3D
 [reddit]: https://www.reddit.com/user/Quelich
+[visualstudio]:https://github.com/Quelich/Quelich/blob/main/Quelich/icons/visualstudio%20(1).svg
