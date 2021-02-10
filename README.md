@@ -39,8 +39,10 @@
 <img align="left" alt="IntelliJ Idea" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/icons8-intellij-idea-96.png" />
 <img align="left" alt="PyCharm" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/icons8-pycharm-96.png" />
 <img align="left" alt="dotTrace" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/dottrace-icon.png" />
-<img align="left" alt="dotMemory" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/icons8-pycharm-96.png" />
-<img align="left" alt="draw.io" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/icons8-pycharm-96.png" />
+<img align="left" alt="dotMemory" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/icon-dotmemory%20(1).png" />
+<img align="left" alt="draw.io" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/draw-io.png" />
+
+
 
 
 ### Spotify Playing 🎧
