@@ -31,14 +31,20 @@
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 <img align="left" alt="Visual Studio" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/visual-studio.png" />
-<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/visual-studio.png" />
-
+<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/visual-studio-code-1.png" />
+<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/git.png" />
+<img align="left" alt="Github" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/github.png" />
+<img align="left" alt="Blender" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/icons8-blender-3d-48.png" />
+<img align="left" alt="XAML" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/icons8-xaml-96.png" />
+<img align="left" alt="IntelliJ Idea" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/icons8-intellij-idea-96.png" />
+<img align="left" alt="PyCharm" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/icons8-pycharm-96.png" />
+<img align="left" alt="dotTrace" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/dottrace-icon.png" />
+<img align="left" alt="dotMemory" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/icons8-pycharm-96.png" />
+<img align="left" alt="draw.io" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/icons8-pycharm-96.png" />
 
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/21c22mgjnbrhmi45bbqbbjmva)
-
-
 
 
 [website]: https://github.com/Quelich
@@ -46,4 +52,3 @@
 [instagram]: https://www.instagram.com/xuelich/
 [linkedin]:https://www.linkedin.com/in/emre-k%C4%B1l%C4%B1%C3%A7-603437147/?KOTA4OBSQdOXovdJx6hNxw=%3D
 [reddit]: https://www.reddit.com/user/Quelich
-[visualstudio]:https://github.com/Quelich/Quelich/blob/main/Quelich/icons/visualstudio%20(1).svg
