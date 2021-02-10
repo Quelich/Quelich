@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on 2D-3D Unity-based games
 - 🤔 I’m looking for help with .NET Framework
 - 💬 Ask me about Unity API, .NET Framework, Powershell, Computer Hardware
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I don't like programming in Java.
     
 ## 📫 How to reach me:
@@ -25,11 +25,13 @@
 ### Languages and Tools:
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![mssql](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-<img align="left" alt="Visual Studio" width="26px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/visual-studio.png" />
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<img align="left" alt="Visual Studio" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/visual-studio.png" />
+<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/visual-studio.png" />
 
 
 
