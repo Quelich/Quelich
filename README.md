@@ -14,10 +14,11 @@
 - ⚡ Fun fact: I don't like programming in Java.
     
 ## 📫 How to reach me:
-
-[<img align="left" | Twitter" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/>][twitter]
-[<img align="left" | LinkedIn" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/> />][linkedin]
-[<img align="left" | Instagram" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" />][instagram]
+[![Twitter](https://img.shields.io/twitter/follow/Xuelich?label=%40Xuelich&style=social)](https://twitter.com/Xuelich)
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/> />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" />][instagram]
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/21c22mgjnbrhmi45bbqbbjmva)
