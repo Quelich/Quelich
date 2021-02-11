@@ -54,7 +54,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quelich&show_icons=true&theme=radical&count_private=true&show_icons=true&show_owner)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quelich&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
----
+
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/21c22mgjnbrhmi45bbqbbjmva)
