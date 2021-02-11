@@ -35,9 +35,8 @@
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 <img align="left" alt="Visual Studio" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/visual-studio.png" />
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/visual-studio-code-1.png" />
-<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/git.png" />
+<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/Git_icon.png" />
 <img align="left" alt="Blender" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/icons8-blender-3d-48.png" />
-<img align="left" alt="XAML" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/icons8-xaml-96.png" />
 <img align="left" alt="IntelliJ Idea" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/icons8-intellij-idea-96.png" />
 <img align="left" alt="PyCharm" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/icons8-pycharm-96.png" />
 <img align="left" alt="dotTrace" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/dottrace-icon.png" />
