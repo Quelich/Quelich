@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/badge/Quelich-lol-brightgreen)](https://github.com/Quelich)
+[![Website](https://img.shields.io/badge/Quelich-lol-brightgreen)](https://github.com/Quelich/Quelich)
 <img align="center" alt="emre" width="1360px" length="399px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/logo/motto.jpg" />
 ### Hi there, I'm Emre - aka [Quelich](https://github.com/Quelich)👋
 
@@ -12,7 +12,7 @@
 - 🤔 I’m looking for help with .NET Framework
 - 💬 Ask me about Unity API, .NET Framework, Powershell, Computer Hardware
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I don't like programming in Java.
+- ⚡ Fun fact: I am a huge fan of Ridley Scott
     
 ## 📫 How to reach me:
 
