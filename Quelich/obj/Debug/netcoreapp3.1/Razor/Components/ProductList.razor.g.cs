@@ -43,24 +43,29 @@ using Quelich.Services;
 #line default
 #line hidden
 #nullable disable
-            __builder.OpenElement(0, "div");
-            __builder.AddAttribute(1, "class", "modal fade");
-            __builder.AddAttribute(2, "id", "productModal");
-            __builder.AddAttribute(3, "tabindex", "-1");
-            __builder.AddAttribute(4, "role", "dialog");
-            __builder.AddAttribute(5, "aria-labelledby", "productTitle");
-            __builder.AddAttribute(6, "aria-hidden", "true");
-            __builder.OpenElement(7, "div");
-            __builder.AddAttribute(8, "class", "modal-dialog modal-dialog-centered");
-            __builder.AddAttribute(9, "role", "document");
-            __builder.OpenElement(10, "div");
-            __builder.AddAttribute(11, "class", "modal-content");
-            __builder.OpenElement(12, "div");
-            __builder.AddAttribute(13, "class", "modal-header");
-            __builder.OpenElement(14, "h5");
-            __builder.AddAttribute(15, "class", "modal-title");
-            __builder.AddAttribute(16, "id", "productTitle");
-            __builder.AddContent(17, 
+            __builder.AddContent(0, "    ");
+            __builder.OpenElement(1, "div");
+            __builder.AddAttribute(2, "class", "modal fade");
+            __builder.AddAttribute(3, "id", "productModal");
+            __builder.AddAttribute(4, "tabindex", "-1");
+            __builder.AddAttribute(5, "role", "dialog");
+            __builder.AddAttribute(6, "aria-labelledby", "productTitle");
+            __builder.AddAttribute(7, "aria-hidden", "true");
+            __builder.AddMarkupContent(8, "\r\n        ");
+            __builder.OpenElement(9, "div");
+            __builder.AddAttribute(10, "class", "modal-dialog modal-dialog-centered");
+            __builder.AddAttribute(11, "role", "document");
+            __builder.AddMarkupContent(12, "\r\n            ");
+            __builder.OpenElement(13, "div");
+            __builder.AddAttribute(14, "class", "modal-content");
+            __builder.AddMarkupContent(15, "\r\n                ");
+            __builder.OpenElement(16, "div");
+            __builder.AddAttribute(17, "class", "modal-header");
+            __builder.AddMarkupContent(18, "\r\n                    ");
+            __builder.OpenElement(19, "h5");
+            __builder.AddAttribute(20, "class", "modal-title");
+            __builder.AddAttribute(21, "id", "productTitle");
+            __builder.AddContent(22, 
 #nullable restore
 #line 14 "D:\GitRepos\Quelich\Quelich\Components\ProductList.razor"
                                                                selectedProduct.Title
@@ -70,17 +75,19 @@ using Quelich.Services;
 #nullable disable
             );
             __builder.CloseElement();
-            __builder.AddMarkupContent(18, "\r\n                    ");
-            __builder.AddMarkupContent(19, "<button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></button>");
+            __builder.AddMarkupContent(23, "\r\n                    ");
+            __builder.AddMarkupContent(24, "<button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\">\r\n                        <span aria-hidden=\"true\">&times;</span>\r\n                    </button>\r\n                ");
             __builder.CloseElement();
-            __builder.AddMarkupContent(20, "\r\n                ");
-            __builder.OpenElement(21, "div");
-            __builder.AddAttribute(22, "class", "modal-body");
-            __builder.OpenElement(23, "div");
-            __builder.AddAttribute(24, "class", "card");
-            __builder.OpenElement(25, "div");
-            __builder.AddAttribute(26, "class", "card-img");
-            __builder.AddAttribute(27, "style", "background-image:" + " url(\'" + (
+            __builder.AddMarkupContent(25, "\r\n                ");
+            __builder.OpenElement(26, "div");
+            __builder.AddAttribute(27, "class", "modal-body");
+            __builder.AddMarkupContent(28, "\r\n                    ");
+            __builder.OpenElement(29, "div");
+            __builder.AddAttribute(30, "class", "card");
+            __builder.AddMarkupContent(31, "\r\n                        ");
+            __builder.OpenElement(32, "div");
+            __builder.AddAttribute(33, "class", "card-img");
+            __builder.AddAttribute(34, "style", "background-image:" + " url(\'" + (
 #nullable restore
 #line 21 "D:\GitRepos\Quelich\Quelich\Components\ProductList.razor"
                                                                              selectedProduct.Image
@@ -89,13 +96,15 @@ using Quelich.Services;
 #line hidden
 #nullable disable
             ) + "\');");
+            __builder.AddMarkupContent(35, "\r\n                        ");
             __builder.CloseElement();
-            __builder.AddMarkupContent(28, "\r\n                        ");
-            __builder.OpenElement(29, "div");
-            __builder.AddAttribute(30, "class", "card-body");
-            __builder.OpenElement(31, "p");
-            __builder.AddAttribute(32, "class", "card-text");
-            __builder.AddContent(33, 
+            __builder.AddMarkupContent(36, "\r\n                        ");
+            __builder.OpenElement(37, "div");
+            __builder.AddAttribute(38, "class", "card-body");
+            __builder.AddMarkupContent(39, "\r\n                            ");
+            __builder.OpenElement(40, "p");
+            __builder.AddAttribute(41, "class", "card-text");
+            __builder.AddContent(42, 
 #nullable restore
 #line 24 "D:\GitRepos\Quelich\Quelich\Components\ProductList.razor"
                                                   selectedProduct.Description
@@ -105,13 +114,20 @@ using Quelich.Services;
 #nullable disable
             );
             __builder.CloseElement();
+            __builder.AddMarkupContent(43, "\r\n                        ");
             __builder.CloseElement();
+            __builder.AddMarkupContent(44, "\r\n                    ");
             __builder.CloseElement();
+            __builder.AddMarkupContent(45, "\r\n                ");
             __builder.CloseElement();
-            __builder.AddMarkupContent(34, "\r\n                <div class=\"modal-footer\"></div>");
+            __builder.AddMarkupContent(46, "\r\n                ");
+            __builder.AddMarkupContent(47, "<div class=\"modal-footer\">\r\n                </div>\r\n            ");
             __builder.CloseElement();
+            __builder.AddMarkupContent(48, "\r\n        ");
             __builder.CloseElement();
+            __builder.AddMarkupContent(49, "\r\n    ");
             __builder.CloseElement();
+            __builder.AddMarkupContent(50, "\r\n");
 #nullable restore
 #line 33 "D:\GitRepos\Quelich\Quelich\Components\ProductList.razor"
 }
