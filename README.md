@@ -1,6 +1,6 @@
 [![Website](https://img.shields.io/badge/Quelich-lol-brightgreen)](https://github.com/Quelich/Quelich)
 <img align="center" alt="emre" width="1360px" length="399px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/logo/motto.jpg" />
-### Hi there, I'm Emre - aka [Quelich](https://github.com/Quelich)👋
+###                                     Hi there, I'm Emre - aka [Quelich](https://github.com/Quelich)👋
 
 
 ## I am a CpE Freshman, Game Developer, Open Source Enthusiastic
@@ -33,7 +33,9 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 <img align="left" alt="Visual Studio" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/visual-studio.png" />
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/visual-studio-code-1.png" />
