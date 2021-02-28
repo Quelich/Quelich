@@ -6,7 +6,7 @@
 ## I am a CpE Freshman, Game Developer, Open Source Enthusiastic
 
 
-- 🔭 I’m currently working on a VR game project as a programmer on [Wide Game Studio](http://www.widegamestudio.com/)
+- 🔭 I’m currently working on a mobile application as a programmer on [Wide Game Studio](http://www.widegamestudio.com/) to develop multiplayer 3D classroom instance for the students of a college.
 - 💻 I’m currently learning .NET Framework, Unity API, Artificial Intelligence, Virtual Reality
 - 👯 I’m looking to collaborate on 2D-3D Unity-based games
 - 🤔 I’m looking for help with .NET Framework
