@@ -6,8 +6,7 @@
 ## I am a CpE Freshman, Game Developer, Open Source Enthusiastic
 
 
-- 🔭 I’m currently working on a mobile application as a software developer on [Wide Game Studio](http://www.widegamestudio.com/) to develop multiplayer, 3-D classroom instances for the students at a college.
-- 💻 I’m currently learning .NET Framework, Unity API, Artificial Intelligence, Virtual Reality
+- 💻 I’m currently learning .NET Framework, Unity API, Artificial Intelligence, and Python for machine learning 
 - 👯 I’m looking to collaborate on solving any client problem and bringing up fresh ideas to the video game industry.
 - 🤔 I’m looking for help with .NET Framework
 - 💬 Ask me about Unity API, .NET Framework, Powershell, Computer Hardware
