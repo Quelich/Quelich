@@ -6,11 +6,13 @@
 ## I am a CpE Freshman, Game Developer, Open Source Enthusiastic
 
 
-- 💻 I’m currently learning .NET Framework, Unity API, Artificial Intelligence, and Python for machine learning 
-- 👯 I’m looking to collaborate on solving any client problem and bringing up fresh ideas to the video game industry.
-- 🤔 I’m looking for help with .NET Framework
+- 💻 Learning .NET Framework, Unity API, Artificial Intelligence, and Python for machine learning 
+- 🔭 Pursuing [Google IT Automation with Python Professional Certificate] and [Game Design and Development with Unity 2020 Specialization]
+- 👯 Looking to collaborate on solving any client problem and bringing up fresh ideas to the video game industry.
+- 🤔 Looking for help with .NET Framework
 - 💬 Ask me about Unity API, .NET Framework, Powershell, Computer Hardware
 - 😄 Pronouns: He/Him/His
+- 💎 Interests: Ancient Greek
 - ⚡ Fun fact: I am a huge fan of Ridley Scott
     
 ## 📫 How to reach me:
@@ -55,11 +57,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quelich&show_icons=true&theme=radical&count_private=true&show_icons=true&show_owner)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quelich&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/21c22mgjnbrhmi45bbqbbjmva)
-
 
 [website]: https://github.com/Quelich
 [twitter]: https://twitter.com/Xuelich
