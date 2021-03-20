@@ -1,5 +1,5 @@
 [![Website](https://img.shields.io/badge/Quelich-lol-brightgreen)](https://github.com/Quelich/Quelich)
-<img align="center" alt="emre" width="1360px" length="399px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/logo/motto.jpg" />
+![Alt Text](https://media.giphy.com/media/l4KihuqeuJEi9qLSM/giphy.gif)
 ###                                     Hi there, I'm Emre - aka [Quelich](https://github.com/Quelich)👋
 
 
