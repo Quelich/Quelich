@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/l4KihuqeuJEi9qLSM/giphy.gif" width="1360px" height="399px" />
 
-###                                     Hi there, I'm Emre - aka [Quelich](https://github.com/Quelich)👋
+#                                  Hi there, I'm **Emre** - aka [Quelich](https://github.com/Quelich)👋
 
 
 ## I am a CpE Freshman, Game Developer, Open Source Enthusiastic
@@ -50,13 +50,9 @@
 <img align="left" alt="dotMemory" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/icon-dotmemory%20(1).png" />
 <img align="left" alt="draw.io" width="32px" src="https://raw.githubusercontent.com/Quelich/Quelich/main/Quelich/icons/draw-io.png" />
 
-<br />
-
-<br />
-
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quelich&show_icons=true&theme=radical&count_private=true&show_icons=true&show_owner)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quelich&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
