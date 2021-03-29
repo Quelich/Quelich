@@ -14,7 +14,7 @@
 - 🤔 Looking for help with .NET Framework
 - 💬 Ask me about Unity API, .NET Framework, Powershell, Computer Hardware
 - 😄 Pronouns: He/Him/His
-- 💎 Interests: Ancient Greek, Paleontology
+- 💎 Interests: Ancient Greek, Anthropology
 - ⚡ Fun fact: I am a huge fan of Ridley Scott
     
 ## 📫 How to reach me:
