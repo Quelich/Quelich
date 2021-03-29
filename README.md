@@ -5,14 +5,14 @@
 #                                  Hi there, I'm **Emre** - aka [Quelich](https://github.com/Quelich)👋
 
 
-## I am a CpE Freshman, Game Developer, Open Source Enthusiastic
+## I am a CpE Freshman, Game Developer.
 
 
 - 💻 Learning .NET Framework, Unity API, Artificial Intelligence, and Python for machine learning 
 - 🔭 Pursuing [Google IT Automation with Python Professional Certificate] and [Game Design and Development with Unity 2020 Specialization]
 - 👯 Looking to collaborate on solving any client problem and bringing up fresh ideas to the video game industry.
 - 🤔 Looking for help with .NET Framework
-- 💬 Ask me about Unity API, .NET Framework, Powershell, Computer Hardware
+- 💬 Ask me about Unity API, C#
 - 😄 Pronouns: He/Him/His
 - 💎 Interests: Ancient Greek, Anthropology
 - ⚡ Fun fact: I am a huge fan of Ridley Scott
