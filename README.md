@@ -14,7 +14,7 @@
 - 🤔 Looking for help with .NET Framework
 - 💬 Ask me about Unity API, C#
 - 😄 Pronouns: He/Him/His
-- 💎 Interests: Ancient Greek, Anthropology
+- 💎 Interests: Hellenistic Art, Anthropology
 - ⚡ Fun fact: I am a huge fan of Ridley Scott
     
 ## 📫 How to reach me:
