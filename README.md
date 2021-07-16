@@ -5,13 +5,11 @@
 #                                  Hi there, I'm **Emre** - aka [Quelich](https://github.com/Quelich)👋
 
 
-## I am a CpE Freshman.
+## I am a CpE Sophomore.
 
-
-- 💻 Learning .NET Framework, Unity API, Artificial Intelligence, and Tensorflow for Machine learning 
-- 🔭 Pursuing [Google IT Automation with Python Professional Certificate] and [Game Design and Development with Unity 2020 Specialization]
-- 👯 Looking to collaborate on solving any client problem and bringing up fresh ideas to the video game industry.
-- 🤔 Looking for help with .NET Framework
+- 💻 Learning .NET Framework, and Tensorflow for Machine learning 
+- 🔭 Pursuing [Google IT Automation with Python Professional Certificate] and []
+- 👯 Looking to collaborate on solving client problems and bringing up fresh ideas to Machine Learning.
 - 💬 Ask me about History of Science
 - 😄 Pronouns: He/Him/His
 - 💎 Interests: Hellenistic Art, Anthropology
@@ -21,18 +19,20 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-k%C4%B1l%C4%B1%C3%A7-603437147/?KOTA4OBSQdOXovdJx6hNxw=%3D)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Xuelich)
-### 💎 Languages and Tools:
+### 💎 Tools:
 ---
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
-![mssql](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![gcloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
 <br />
 
