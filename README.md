@@ -8,7 +8,7 @@
 ## I am a CpE Sophomore.
 
 - 💻 Learning .NET Framework, and Tensorflow for Machine learning 
-- 🔭 Pursuing [Google IT Automation with Python Professional Certificate] and []
+- 🔭 Pursuing [Google IT Automation with Python Professional Certificate] and [DeepLearning.AI: Deep Learning Specialization]
 - 👯 Looking to collaborate on solving client problems and bringing up fresh ideas to Machine Learning.
 - 💬 Ask me about History of Science
 - 😄 Pronouns: He/Him/His
