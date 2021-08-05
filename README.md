@@ -8,9 +8,9 @@
 ## I am a CpE Sophomore.
 
 - 💻 Learning .NET Framework, and Tensorflow for Machine learning 
-- 🔭 Pursuing [Google IT Automation with Python Professional Certificate] and [DeepLearning.AI: Deep Learning Specialization]
+- 🔭 Pursuing [DeepLearning.AI: Deep Learning Specialization]
 - 👯 Looking to collaborate on solving client problems and bringing up fresh ideas to Machine Learning.
-- 💬 Ask me about History of Science
+- 💬 Ask me about the History of Science
 - 😄 Pronouns: He/Him/His
 - 💎 Interests: Hellenistic Art, Anthropology
 - ⚡ Fun fact: I am a huge fan of Ridley Scott
@@ -19,7 +19,7 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-k%C4%B1l%C4%B1%C3%A7-603437147/?KOTA4OBSQdOXovdJx6hNxw=%3D)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Xuelich)
-### 💎 Tools:
+## 💎 Tools:
 ---
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
