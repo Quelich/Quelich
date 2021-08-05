@@ -12,7 +12,7 @@
 - 👯 Looking to collaborate on solving client problems and bringing up fresh ideas to Machine Learning.
 - 💬 Ask me about the History of Science
 - 😄 Pronouns: He/Him/His
-- 💎 Interests: Hellenistic Art, Anthropology
+- 💎 Interests: Hellenistic Art, Geology
 - ⚡ Fun fact: I am a huge fan of Ridley Scott
     
 ## 📫 How to reach me:
