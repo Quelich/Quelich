@@ -6,7 +6,6 @@
 
 
 ## I am a CpE Sophomore.
-
 - 💻 Learning .NET Framework, and Tensorflow for Machine learning 
 - 🔭 Pursuing [DeepLearning.AI: Deep Learning Specialization]
 - 👯 Looking to collaborate on solving client problems and bringing up fresh ideas to Machine Learning.
@@ -16,11 +15,10 @@
 - ⚡ Fun fact: I am a huge fan of Ridley Scott
     
 ## 📫 How to reach me:
-
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-k%C4%B1l%C4%B1%C3%A7-603437147/?KOTA4OBSQdOXovdJx6hNxw=%3D)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Xuelich)
+
 ## 💎 Tools:
----
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
@@ -35,15 +33,11 @@
 ![vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br />
-
-<br />
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quelich&show_icons=true&theme=radical&count_private=true&show_icons=true&show_owner)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quelich&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quelich&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://github.com/Quelich
 [twitter]: https://twitter.com/Xuelich
