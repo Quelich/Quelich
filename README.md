@@ -1,17 +1,16 @@
 [![Website](https://img.shields.io/badge/Quelich-lol-brightgreen)](https://github.com/Quelich/Quelich)
 
-<img src="https://media.giphy.com/media/l4KihuqeuJEi9qLSM/giphy.gif" width="1360px" height="399px" />
+<img src="https://media.giphy.com/media/CWOL3g43ypHi0/giphy.gif" width="1360px" height="399px" />
 
 #                                  Hi there, I'm **Emre** - aka [Quelich](https://github.com/Quelich)👋
 
 
-## I am a CpE Sophomore.
+## I am a passionate engineer 
 - 💻 Learning .NET Framework, and Tensorflow for Machine learning 
-- 🔭 Pursuing [DeepLearning.AI: Deep Learning Specialization]
 - 👯 Looking to collaborate on solving client problems and bringing up fresh ideas to Machine Learning.
-- 💬 Ask me about the History of Science
+- 💬 Ask me about the history of science
 - 😄 Pronouns: He/Him/His
-- 💎 Interests: Hellenistic Art, Geology
+- 💎 Interests: Geology
 - ⚡ Fun fact: I am a huge fan of Ridley Scott
     
 ## 📫 How to reach me:
@@ -21,7 +20,6 @@
 ## 💎 Tools:
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
