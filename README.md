@@ -11,7 +11,7 @@
 - 💬 Ask me about the history of science
 - 😄 Pronouns: He/Him/His
 - 💎 Interests: Geology
-- ⚡ Fun fact: I am a huge fan of Ridley Scott
+
     
 ## 📫 How to reach me:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-k%C4%B1l%C4%B1%C3%A7-603437147/?KOTA4OBSQdOXovdJx6hNxw=%3D)
