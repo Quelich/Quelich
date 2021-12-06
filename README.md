@@ -7,7 +7,7 @@
 
 ## I am a passionate engineer 
 - 💻 Learning .NET Framework, and Tensorflow for Machine learning 
-- 👯 Looking to collaborate on solving client problems and bringing up fresh ideas to Machine Learning.
+- 👯 I am currently working with two groups to make a mobile shopping app for a store and a website for another store.
 - 💬 Ask me about the history of science
 - 😄 Pronouns: He/Him/His
 - 💎 Interests: Geology
