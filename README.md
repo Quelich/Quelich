@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/l4KihuqeuJEi9qLSM/giphy.gif" width="1360px" height="399px" />
 
-#                                  Hi there, I'm **Emre** - aka [Quelich](https://github.com/Quelich)👋
+#                                  Hi, I'm **Emre** 
 
 
 ## I am a passionate engineer 
