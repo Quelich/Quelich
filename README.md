@@ -12,7 +12,7 @@
   - I am working on a mobile application project to make a e-commerce app for a store of a college.
   - I am working a website application project to automate a store's operations
 - 💬 Ask me about the history of science
-- 💎 Interests: Geology
+- 💎 Interests: Geology, Automation
 
     
 ## 📫 How to reach me:
