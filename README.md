@@ -7,9 +7,11 @@
 
 ## I am a passionate engineer 
 - 💻 Learning .NET Framework, and Tensorflow for Machine learning 
-- 👯 I am currently working with two groups to make a mobile shopping app for a store and a website for another store.
+- 👯 I am currently working on three projects:
+  - I am developing a novel slicer for a brand new hardware in a startup which has focused on reducing Fdm additive manufacturing (3d printing) time.
+  - I am working on a mobile application project to make a e-commerce app for a store of a college.
+  - I am working a website application project to automate a store's operations
 - 💬 Ask me about the history of science
-- 😄 Pronouns: He/Him/His
 - 💎 Interests: Geology
 
     
