@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/badge/Quelich-lol-brightgreen)](https://github.com/Quelich/Quelich)
+[![Website](https://img.shields.io/badge/Quelich-lol-brightgreen)](https://quelich.github.io/)
 
 <img src="https://media.giphy.com/media/l4KihuqeuJEi9qLSM/giphy.gif" width="1360px" height="399px" />
 
@@ -35,6 +35,11 @@
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
+## Portfolio
+[You can take a look at my work and inspire yourself :D](https://quelich.github.io/)
+
+
+## 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quelich&show_icons=true&theme=radical&count_private=true&show_icons=true&show_owner)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quelich&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
