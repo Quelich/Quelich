@@ -7,11 +7,11 @@
 
 ## I am a passionate engineer 
 - 💻 Learning .NET Framework, and Tensorflow for Machine learning 
-- 👯 I am currently working on three projects:
-  - I am developing a mobile VR application with a team to maintain online meetings.
-  - I am developing a novel slicer for a brand new hardware in a startup which has focused on reducing Fdm additive manufacturing (3d printing) time.
-  - I am working on a mobile application project to make a e-commerce app for a store of a college.
-  - I am working a website application project to automate a store's operations
+- 👯 Most recently developing:
+  - a mobile VR application, using Unity, aims to provide online and VR meeting environment for the client.
+  - a novel slicer for a brand new hardware in a startup focused on reducing Fdm additive manufacturing (3d printing) time.
+  - a mobile application to make a e-commerce app for a college's store.
+  - a mobile application aims to automate a store's operations
 - 💬 Ask me about the history of science
 - 💎 Interests: Geology, Automation
 
