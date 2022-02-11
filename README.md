@@ -10,8 +10,7 @@
 - 👯 Most recently developing:
   - a mobile VR application, using Unity, aims to provide online and VR meeting environment for the client.
   - a novel slicer for a brand new hardware in a startup focused on reducing Fdm additive manufacturing (3d printing) time.
-  - a mobile application to make a e-commerce app for a college's store.
-  - a mobile application aims to automate a store's operations
+  - a Flutter website aims to automate a store's operations.
 - 💬 Ask me about the history of science
 - 💎 Interests: Geology, Automation
 
