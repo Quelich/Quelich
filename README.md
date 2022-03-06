@@ -6,11 +6,12 @@
 
 
 ## I am a passionate engineer 
-- 💻 Learning .NET Framework, and Tensorflow for Machine learning 
+- 💻 Spending my time to learn the best practices of Dev-Ops. 
 - 👯 Most recently developing:
-  - a mobile VR application, using Unity, aims to provide online and VR meeting environment for an IT company.
+  - a mobile VR application, using Unity,to provide online and VR meeting environment for an IT company.
   - a novel slicer for a brand new hardware in a startup focused on reducing Fdm additive manufacturing (3d printing) time.
-  - a Flutter website aims to automate a store's operations.
+  - a website for a student club and its members.
+  - a website that its customers can order printed documents easily; diminishing long queues; improving payment methods.
 - 💬 Ask me about the history of science
 - 💎 Interests: Geology, Automation
 
@@ -36,6 +37,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
 
 
