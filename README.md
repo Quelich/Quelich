@@ -8,7 +8,7 @@
 ## I am a passionate engineer 
 - 💻 Spending my time to learn the best practices of Dev-Ops. 
 - 👯 Most recently developing:
-  - a mobile VR application, using Unity,to provide online and VR meeting environment for an IT company.
+  - a mobile VR application, using Unity, to provide online and VR meeting environment for an IT company.
   - a novel slicer for a brand new hardware in a startup focused on reducing Fdm additive manufacturing (3d printing) time.
   - a website for a student club and its members.
   - a website that its customers can order printed documents easily; diminishing long queues; improving payment methods.
@@ -16,7 +16,7 @@
 - 💎 Interests: Geology, Automation
 
     
-## 📫 How to reach me:
+## 📫 Contact:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-k%C4%B1l%C4%B1%C3%A7-603437147/?KOTA4OBSQdOXovdJx6hNxw=%3D)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Xuelich)
 
