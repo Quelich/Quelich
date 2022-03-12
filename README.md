@@ -1,14 +1,17 @@
 [![Website](https://img.shields.io/badge/Portfolio-ClickHere-brightgreen)](https://quelich.github.io/)
+<p align="center"> 
+<img src="https://media1.giphy.com/media/xTiTnumdcQABBLgM92/giphy.gif?cid=790b76115f320bbd5dbf513d2e1940ecfca8059377395564&rid=giphy.gif&ct=g" width="480px" height="480px" />
 
-<img src="https://media.giphy.com/media/l4KihuqeuJEi9qLSM/giphy.gif" width="1360px" height="399px" />
+</p>
 
+  
 #                                  Hi, I'm **Emre** 
 
 
 ## I am a passionate engineer 
 - 💻 Spending my time to learn the best practices of Dev-Ops. 
 - 👯 Most recently developing:
-  - a mobile VR application, using Unity, to provide online and VR meeting environment for an IT company.
+  - a mobile VR application with Unity, to provide online and VR meeting environment for an IT company.
   - a novel slicer for a brand new hardware in a startup focused on reducing Fdm additive manufacturing (3d printing) time.
   - a website for a student club and its members.
   - a website that its customers can order printed documents easily; diminishing long queues; improving payment methods.
@@ -16,12 +19,12 @@
 - 💎 Interests: Geology, Automation
 
     
-## 📫 Contact:
+## 📫 You can reach me via:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-k%C4%B1l%C4%B1%C3%A7-603437147/?KOTA4OBSQdOXovdJx6hNxw=%3D)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Xuelich)
 
-## 💎 Tools I use:
-### Advanced 
+## 💎 Tools that I am proficient at:
+### Advanced level
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -34,13 +37,13 @@
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-### Intermediate
+### Intermediate level
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-### Basic
+### Basic level
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 
