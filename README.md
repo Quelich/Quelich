@@ -1,9 +1,4 @@
 [![Website](https://img.shields.io/badge/Portfolio-ClickHere-brightgreen)](https://quelich.github.io/)
-<p align="center"> 
-<img src="https://media1.giphy.com/media/xTiTnumdcQABBLgM92/giphy.gif?cid=790b76115f320bbd5dbf513d2e1940ecfca8059377395564&rid=giphy.gif&ct=g" width="480px" height="480px" />
-
-</p>
-
   
 #                                  Hi, I'm **Emre** 
 
