@@ -7,7 +7,6 @@
 - 💻 Spending my time to learn the best practices of Dev-Ops. 
 - 👯 Most recently developing:
   - a digital platform as website to connect students and match their skills for the best internship and job opportunities. 
-  - a website that its customers can order printed documents easily; diminishing long queues; improving payment methods.
 - 💬 Ask me about the history of science
 - 💎 Interests: Technology, Automation, Geology
 
