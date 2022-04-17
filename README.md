@@ -4,7 +4,7 @@
 
 
 ## Passionate about technology and science 
-- 💻 Spending my time to learn the best practices of Dev-Ops. 
+- 💻 Spending my time learning the best practices of Dev-Ops. 
 - 👯 Most recently developing:
   - a digital platform as website to connect students and match their skills for the best internship and job opportunities. 
 - 💬 Ask me about the history of science
