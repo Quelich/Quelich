@@ -6,7 +6,7 @@
 ## Passionate about technology and science 
 - 💻 Spending my time learning the best practices of Dev-Ops. 
 - 👯 Most recently developing:
-  - a digital platform as website to connect students and match their skills for the best internship and job opportunities(Flask & Vue.js). 
+  - a website like LinkedIn, but for certain people meaning not everyone allowed to use it(Flask & Vue.js). 
 - 💬 Ask me about the history of science
 - 💎 Interests: Technology, Automation, Geology
 
