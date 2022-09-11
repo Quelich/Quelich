@@ -6,7 +6,8 @@
 ## Passionate about technology and science 
 - 💻 Spending my time learning the best practices of Dev-Ops. 
 - 👯 Most recently developing:
-  - a website like LinkedIn, but for certain people meaning not everyone allowed to use it(Flask & Vue.js). 
+  - Flare Frenzy: A Visual Reality(VR) game developed for Oculus App Lab. It presents amazing shooting experiences in VR with colorful guns.
+  - YupBuddy: A mobile application that allows you to create your custom workout programs from a workout moves pool.
 - 💬 Ask me about the history of science
 - 💎 Interests: Technology, Automation, Geology
 
