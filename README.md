@@ -4,12 +4,12 @@
 
 
 ## Passionate about technology and science 
-- 💻 Spending my time learning the best practices of Dev-Ops. 
+- 💻 Spending my time learning the best practices of Virtual Reality development with Oculus, AR filters, WebAR. 
 - 👯 Most recently developing:
   - Flare Frenzy: A Visual Reality(VR) game developed for Oculus App Lab. It presents amazing shooting experiences in VR with colorful guns.
   - YupBuddy: A mobile application that allows you to create your custom workout programs from a workout moves pool.
 - 💬 Ask me about the history of science
-- 💎 Interests: Technology, Automation, Geology
+- 💎 Interests: Virtual Reality, Technology, Automation.
 
     
 ## 📫 Contact
