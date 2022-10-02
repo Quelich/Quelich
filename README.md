@@ -4,9 +4,9 @@
 
 
 ## Passionate about technology and science 
-- 💻 Spending my time learning the best practices of Virtual Reality(VR) development with Oculus, AR filters, WebAR. 
+- 💻 Spending my time learning the best practices of Virtual Reality(VR) development with Oculus, AR filters, WebAR, Unity, Unreal Engine 5. 
 - 👯 Most recently developing:
-  - Flare Frenzy: a VR game developed for Oculus App Lab. It presents amazing shooting experiences in VR with colourful guns.
+  - [Flare Frenzy](https://flarefrenzy.widegamestudio.com/): a VR game developed for Oculus App Lab. It presents amazing shooting experiences in VR with colourful guns.
   - YupBuddy: A mobile application that allows you to create your custom workout programs from a workout moves pool.
 - 💎 Interests: Virtual Reality, Augmented Reality, Data Structures & Algorithms.
 
