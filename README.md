@@ -2,8 +2,14 @@
   
 #                                  Hi, I'm **Emre** 
 
+I make games for computers, mobile phones, and **virtual reality** hardware because I think that people playing video games can literally do anything they are unable to do in real life. 
 
-## Passionate about technology and science 
+Whatever I develop, I apply the principles of **Software Engineering** because that's my job. 
+
+Working with team players makes me happier because I like **collaboration** and **team-work**.
+
+
+## I'm passionate about technology and development, 
 - 💻 Spending my time learning the best practices of Virtual Reality(VR) development with Oculus, AR filters, WebAR, Unity, Unreal Engine 5. 
 - 👯 Most recently developing:
   - [Flare Frenzy](https://flarefrenzy.widegamestudio.com/): a VR game developed for Oculus App Lab. It presents amazing shooting experiences in VR with colourful guns.
