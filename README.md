@@ -2,7 +2,7 @@
   
 #                                  Hi, I'm **Emre** 
 
-I develop mobile and web applications.
+I develop mobile and web applications that help people to monitor data.
 
 Whatever I develop, I apply the principles of **Software Engineering** because that's my job. 
 
