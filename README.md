@@ -9,7 +9,7 @@ Whatever I develop, I apply the principles of **Software Engineering** because t
 Working with team players makes me happier because I like **collaboration** and **team-work**.
 
 
-## I'm passionate about technology and development, 
+## I'm passionate about technology, 
 - 💻 Spending most of my time learning the best practices of DevOps.
 - 👯 Inventory:
   - [Flare Frenzy](https://flarefrenzy.widegamestudio.com/): Developed a VR game for Oculus App Lab. It presents shooting experiences in VR with colourful guns. [Check out](https://www.oculus.com/experiences/quest/5489531501137764/)
