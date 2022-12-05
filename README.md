@@ -8,9 +8,7 @@ Whatever I develop, I apply the principles of **Software Engineering** because t
 
 Working with team players makes me happier because I like **collaboration** and **team-work**.
 
-
-## I'm passionate about technology, 
-- 💻 Spending most of my time learning the best practices of DevOps.
+I'm passionate about technology, spending most of my time learning the best practices of **DevOps**.
     
 ## 📫 Contact
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-k%C4%B1l%C4%B1%C3%A7-603437147/?KOTA4OBSQdOXovdJx6hNxw=%3D)
