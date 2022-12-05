@@ -11,9 +11,6 @@ Working with team players makes me happier because I like **collaboration** and 
 
 ## I'm passionate about technology, 
 - 💻 Spending most of my time learning the best practices of DevOps.
-- 👯 Inventory:
-  - [Flare Frenzy](https://flarefrenzy.widegamestudio.com/): Developed a VR game for Oculus App Lab. It presents shooting experiences in VR with colourful guns. [Check out](https://www.oculus.com/experiences/quest/5489531501137764/)
-  - YupBuddy: A mobile application that allows you to create your custom workout programs from a workout moves pool.
     
 ## 📫 Contact
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-k%C4%B1l%C4%B1%C3%A7-603437147/?KOTA4OBSQdOXovdJx6hNxw=%3D)
