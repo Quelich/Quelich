@@ -4,9 +4,9 @@
 
 I develop mobile and web applications that help people to monitor data.
 
-Whatever I develop, I apply the principles of **Software Engineering** because that's my job. 
+Whatever I develop, I apply the principles of **Software Engineering**. 
 
-Working with team players makes me happier because I like **collaboration** and **team-work**.
+Working with team players makes me ambitious because I like **collaboration** and **team-work**.
 
 I'm passionate about technology, spending most of my time learning the best practices of **DevOps**.
     
