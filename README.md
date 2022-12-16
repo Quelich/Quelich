@@ -11,7 +11,7 @@ Working with team players makes me ambitious because I like **collaboration** an
 Spending most of my time learning the best practices of **DevOps**.
 
 I am currently developing Interlab. 
-- Interlab is a IT infrastructure monitoring application backed by **Next.js** framework.
+- Interlab is an IT infrastructure monitoring application backed by **Next.js** framework.
 
     
 ## 📫 Contact
