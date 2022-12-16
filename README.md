@@ -10,6 +10,8 @@ Working with team players makes me ambitious because I like **collaboration** an
 
 Spending most of my time learning the best practices of **DevOps**.
 
+I am currently developing Interlab. 
+- Interlab is a IT infrastructure monitoring application backed by **Next.js** framework.
 
     
 ## 📫 Contact
@@ -35,9 +37,6 @@ Spending most of my time learning the best practices of **DevOps**.
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-
-
 
 
 
