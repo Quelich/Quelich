@@ -2,11 +2,13 @@
   
 #                                  Hi, I'm **Emre** 
 
-- I develop mobile and web applications that help people to monitor data so I love working on backends  and system design.
+- I develop mobile and web applications that help people to monitor data 
 
-- Whatever I develop, I apply the principles of **Software Engineering**. I 
+- so I love working on backends and system design :)
+ 
+- Whatever I develop, I apply the principles of **Software Engineering**.
 
-- Working with team players makes me ambitious because I like **collaboration** and **challenges**.
+- Working with team players makes me ambitious because I like **challenges**, **collaboration**, and **learning**.
 
 - Spending most of my time learning the best practices of **DevOps**.
 
