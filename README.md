@@ -8,7 +8,7 @@
  
 - Whatever I develop, I apply the principles of **Software Engineering**.
 
-- Working with team players makes me ambitious because I like **challenges**, **collaboration**, and **learning**.
+- I enjoy working with team players because I like **challenges**, **collaboration**, and **learning**.
 
 - Spending most of my time learning the best practices of **DevOps**.
 
