@@ -14,7 +14,6 @@
 
 I am currently developing Interlab. 
 - Interlab is an IT infrastructure monitoring application backed by **Next.js** framework.
-
     
 ## 📫 Contact
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-k%C4%B1l%C4%B1%C3%A7-603437147/?KOTA4OBSQdOXovdJx6hNxw=%3D)
@@ -38,17 +37,6 @@ I am currently developing Interlab.
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-
-
-
-
-
-## 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quelich&show_icons=true&theme=radical&count_private=true&show_icons=true&show_owner)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quelich&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Leetcode Stats
-[![Leetcode Stats](https://leetcode.card.workers.dev/?username=Quelich&style=dark&font=&extension=activity)](https://leetcode.com/Quelich)
+[![Website](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Quelich/)
