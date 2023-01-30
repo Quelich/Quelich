@@ -15,7 +15,7 @@
 I am currently developing Interlab. 
 - Interlab is an IT infrastructure monitoring application backed by **Next.js** framework.
 
-## 💎 Tools that I like to use developing software:
+## 💎 Tools that I like to use:
 ![nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
