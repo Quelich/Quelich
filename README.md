@@ -4,7 +4,7 @@
 
 - I develop mobile and web applications that help people to monitor data 
 
-- so I love working on the backend and system design :)
+- so I love to work on the backend and system design :)
  
 - Whatever I develop, I apply the principles of **Software Engineering**.
 
