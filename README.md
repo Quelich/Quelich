@@ -12,7 +12,7 @@
 
 - Spending most of my time learning the best practices of **DevOps**.
 
-- I develop video games in my spare time.
+- I also develop video games in my spare time.
 
 I am currently developing Interlab. 
 - Interlab is an IT infrastructure monitoring application backed by **Next.js** framework.
