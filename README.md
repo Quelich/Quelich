@@ -2,17 +2,12 @@
   
 #                                  Hi, I'm **Emre** 
 
-- I develop mobile and web applications that help people to monitor data 
 
-- so I love to work on backend development and system engineering :)
- 
-- Whatever I develop, I apply the principles of **Software Engineering**.
-
-- I enjoy working with team players because I like **challenges**, **collaboration**, and **learning**.
-
-- Spending most of my time learning the best practices of **DevOps**.
-
-- I also develop video games in my spare time.
+- As a software engineer, I am responsible for designing and implementing sophisticated software tools(mobile, web) that enable IT infrastructure monitoring.
+- My passion lies in backend development and system engineering, where I can apply my technical expertise to create efficient and reliable software systems.
+- I thrive on the opportunity to **collaborate** with other team players, leveraging our collective skills and knowledge to tackle complex **challenges** and foster **continuous learning**.
+- In my ongoing pursuit of excellence in software development, I devote a significant portion of my time to learning the latest best practices in **DevOps**.
+- In addition to my professional work, I devote my spare time to developing video games, further honing my programming skills and creative problem-solving abilities.
 
 I am currently developing Interlab. 
 - Interlab is an IT infrastructure monitoring application backed by **Next.js** framework.
