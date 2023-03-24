@@ -1,6 +1,4 @@
-[![Website](https://img.shields.io/badge/Portfolio-ClickHere-brightgreen)]([https://quelich.github.io/](https://quelich.me/about))
-  
-#                                  Hi, I'm **Emre** 
+#                             Hi, I'm **Emre** 
 
 
 - As a software engineer, I am responsible for designing and implementing sophisticated software tools(mobile, web) that enable IT infrastructure monitoring.
