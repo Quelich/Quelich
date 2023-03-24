@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/badge/Portfolio-ClickHere-brightgreen)](https://quelich.github.io/)
+[![Website](https://img.shields.io/badge/Portfolio-ClickHere-brightgreen)]([https://quelich.github.io/](https://quelich.me/about))
   
 #                                  Hi, I'm **Emre** 
 
