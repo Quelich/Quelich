@@ -6,6 +6,7 @@
 - I thrive on the opportunity to **collaborate** with other team players, leveraging our collective skills and knowledge to tackle complex **challenges** and foster **continuous learning**.
 - In my ongoing pursuit of excellence in software development, I devote a significant portion of my time to learning the latest best practices in **DevOps**.
 - In addition to my professional work, I devote my spare time to developing video games, further honing my programming skills and creative problem-solving abilities.
+- I love doing workouts every week. 
 
 I am currently developing Interlab. 
 - Interlab is an IT infrastructure monitoring application backed by **Next.js** framework.
