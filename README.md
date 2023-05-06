@@ -1,15 +1,12 @@
 #                             Hi, I'm **Emre** 
 
 
-- As a software engineer, I am responsible for designing and implementing sophisticated software tools(mobile, web) that enable IT infrastructure monitoring.
-- My passion lies in backend development and system engineering, where I can apply my technical expertise to create efficient and reliable software systems.
-- I thrive on the opportunity to **collaborate** with other team players, leveraging our collective skills and knowledge to tackle complex **challenges** and foster **continuous learning**.
-- In my ongoing pursuit of excellence in software development, I devote a significant portion of my time to learning the latest best practices in **DevOps**.
-- In addition to my professional work, I devote my spare time to developing video games, further honing my programming skills and creative problem-solving abilities.
-- I love doing workouts every week. 
+- I'm a software engineer.
+- I design and implement software tools(mobile, web) that enable monitoring.
+- I love data and backend development.
+- I thrive on the opportunity to **collaborate** with other team players, leveraging our collective skills, and pursue **continuous learning**.
+- I devote a significant portion of my time to learning the latest best practices in **DevOps**. 
 
-I am currently developing Interlab. 
-- Interlab is an IT infrastructure monitoring application backed by **Next.js** framework.
 
 ## 💎 Software tools that I use:
 ![nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -22,9 +19,12 @@ I am currently developing Interlab.
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![gql](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
