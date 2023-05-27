@@ -4,8 +4,6 @@
 - I'm a software engineer.
 - I design and implement software tools(mobile, web) that enable monitoring.
 - I love data, machine learning and backend engineering.
-- I thrive on the opportunity to **collaborate** with other team players, leveraging our collective skills, and pursue **continuous learning**.
-- I devote a significant portion of my time to learning the latest best practices in **DevOps**. 
 
 
 ## 💎 Software tools that I use:
