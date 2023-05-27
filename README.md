@@ -2,7 +2,6 @@
 
 
 - I'm a software engineer.
-- I design and implement software tools(mobile, web) that enable monitoring.
 - I love data, machine learning and backend engineering.
 
 
