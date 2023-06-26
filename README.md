@@ -2,7 +2,7 @@
 
 
 - I'm a software engineer.
-- I love data, machine learning and backend engineering.
+- I love data, backend engineering and machine learning.
 
 
 ## 💎 Software tools that I use:
