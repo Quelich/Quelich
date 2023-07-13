@@ -1,7 +1,7 @@
 #                             Hi, I'm **Emre** 
 
 
-- I'm a software engineer.
+- Software engineer.
 - I love data, backend engineering and machine learning.
 
 
