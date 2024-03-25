@@ -1,6 +1,6 @@
 # Hi, I'm **Emre** 
 
-- Software engineer.
+- Computer engineer.
 - Data, backend engineering and machine learning.
 
 ## I use:
